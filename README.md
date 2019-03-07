@@ -1,6 +1,11 @@
 # CSCI2020u_Assignment1
 ## Yash Dhume
 ### 100653618
+
+```
+git clone https://github.com/yashdhume/CSCI2020u_Assignment1.git
+```
+
 **Question 1:**
 
 ``` 
