@@ -1,5 +1,6 @@
 # CSCI2020u_Assignment1
-
+## Yash Dhume
+### 100653618
 **Question 1:**
 
 ``` 
